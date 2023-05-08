@@ -1,6 +1,6 @@
 # VBA-challenge-Module 2 Challenge
-The VBA code module came be found in the "Module1 for VBA Assignment.bas".
-This code can be run on both data files, "alphabetical_testing" and "Multiple_year_stock_data".
-It will run on all worksheets inside the file if you use the Runall script in the code.
-The results are attached by screenshots and the test file is also uploaded just incase.
+Goal: This VBA code will analyze gerated stock market data.
 
+The task was to create a VBA script that loops through all the stocks for a given year and outputs the ticker symbol, yearly change, percentage change, and total stock volume. In addition, the script returns the stock with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
+
+The script is modified to run on every worksheet for each year at once.
